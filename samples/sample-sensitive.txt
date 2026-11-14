@@ -1,0 +1,36 @@
+EMPLOYEE RECORD — STRICTLY CONFIDENTIAL
+========================================
+
+Name: Rajesh Kumar Sharma
+Date of Birth: 15/03/1985
+Gender: Male
+
+--- Identity Documents ---
+Aadhaar Number: 2341 2341 2346
+PAN Card: ABCPS1234E
+Passport: J8374652
+
+--- Contact Information ---
+Phone: +91 98765 43210
+Email: rajesh.sharma@example.com
+UPI: rajesh.sharma@oksbi
+
+--- Financial Details ---
+Bank Account: 10201234567890
+IFSC: SBIN0001234
+Credit Card: 4111 1111 1111 1111
+Card Expiry: 12/25
+
+--- Address ---
+42, Mahatma Gandhi Road, Sector 5
+PIN Code: 110001
+New Delhi, India
+
+--- Employment ---
+Employee ID: EMP-20150042
+Department: Engineering
+Religion: Hindu
+
+Notes:
+Salary credited to above bank account on the 1st of every month.
+Emergency contact: spouse (Priya Sharma), +91 87654 32109.
